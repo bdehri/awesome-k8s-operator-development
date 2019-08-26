@@ -11,3 +11,12 @@ A curated list of k8s frameworks, examples, blog posts etc.
 - [Kudo](https://kudo.dev/) - YAML
 
 
+## Must Read
+
+- [Operator pattern](https://kubernetes.io/docs/concepts/extend-kubernetes/operator/)
+- [Custom Resources](https://kubernetes.io/docs/concepts/extend-kubernetes/api-extension/custom-resources/)
+
+
+## Design Examples
+
+- [spark-on-k8s-operator](https://github.com/GoogleCloudPlatform/spark-on-k8s-operator/blob/master/docs/design.md)
